@@ -1,9 +1,9 @@
-# 기본 계산기
-def add(a,b):
+# 기본 계산기 기능3가지
+def add(a, b):
 	return a+b
 
-def substract(a,b):
+def substract(a, b):
 	return a-b
 
-def multiply(a,b):
+def multiply(a, b):
 	return a*b
